@@ -55,6 +55,12 @@ Multi-Agents LLMs Failure/
 
    The application window will open, allowing you to interact with the AI agent.
 
+   ![image](https://github.com/user-attachments/assets/c1ba9f31-80f4-48bd-81e0-f223b678e04d)
+   ![image](https://github.com/user-attachments/assets/1ccb12da-b981-49cf-beae-6d9385de53fb)
+   ![image](https://github.com/user-attachments/assets/ba32d349-ca31-4fda-82e2-4ed5e75ea8fe)
+   ![image](https://github.com/user-attachments/assets/3f455701-c272-4f17-8ab4-0a07c1b1b77e)
+
+
 ## Usage Instructions
 
 - **Interactive Mode:** Use the query box to ask about specific failure modes (e.g., "Show me an example of information withholding") or categories (e.g., "Explain inter-agent misalignment").
