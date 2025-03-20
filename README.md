@@ -28,8 +28,7 @@ Multi-Agents LLMs Failure/
 ├── data/
 │   └── failure_modes.json # JSON database with MASFT taxonomy data
 ├── educator.db             # SQLite database for storing user interactions
-├── .windsurfrules         # Windsurf rules for the project (empty file)
-└── README.md              # This README file
+├── README.md              # This README file
 ```
 
 ## Setup and Running
